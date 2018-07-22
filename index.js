@@ -1,2 +1,3 @@
 // Write your code in this file!
-let currentUser = Alejandra
+let currentUser = 'Grace Hopper'
+
